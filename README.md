@@ -12,3 +12,5 @@ The files here are some dumps I made from these transfers and are in the native 
 Understanding the SysEx implementation opens the door to the creation of a potential editor for the TR-8S.
 
 However first step is to understand the communication 
+
+The information on Roland SysEx messages by Glenn Meader may help initial efforts (http://www.chromakinetics.com/handsonic/rolSysEx.htm)
