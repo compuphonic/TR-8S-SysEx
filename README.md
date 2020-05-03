@@ -28,6 +28,7 @@ Functionality provided via the ARIA website:
 - Transfer Kit to specific memory slot
 - Transfer Pattern to specific memory slot
 - Delete a specific user sample from memory
+- Check firmware version
 
 
 
