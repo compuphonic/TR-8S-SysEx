@@ -1,5 +1,5 @@
 # TR-8S-SysEx
-Investigation and discovery of the Roland Tr-8S SysEx implementation 
+Investigation and discovery of the Roland TR-8S SysEx implementation 
 
 The Roland TR-8S is a fun and creative drum machine. A long time wish by users is some means of external memory management.
 
