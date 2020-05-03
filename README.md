@@ -14,3 +14,7 @@ Understanding the SysEx implementation opens the door to the creation of a poten
 However first step is to understand the communication 
 
 The information on Roland SysEx messages by Glenn Meader may help initial efforts (http://www.chromakinetics.com/handsonic/rolSysEx.htm)
+
+The SysEx database is another useful resource for understanding other Roland SysEx implmentations
+http://www.sysexdb.com/list.aspx
+
