@@ -18,3 +18,17 @@ The information on Roland SysEx messages by Glenn Meader may help initial effort
 The SysEx database is another useful resource for understanding other Roland SysEx implmentations
 http://www.sysexdb.com/list.aspx
 
+
+
+Functionality provided via the ARIA website:
+- Establish connection
+- Determine free sample memory/memory utilisation
+- Report Memory Fragmentation
+- Optimise sample memory
+- Transfer Kit to specific memory slot
+- Transfer Pattern to specific memory slot
+- Delete a specific user sample from memory
+
+
+
+-Full backup of TR-8S data (56.9Mb)
