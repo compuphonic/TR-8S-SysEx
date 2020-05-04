@@ -1,0 +1,2 @@
+export const ErrorCode = {};
+ErrorCode.NoError = 0, ErrorCode.SystemError = 1e3, ErrorCode.MidiApiNotSupportedError = 1001, ErrorCode.PatchFileReadError = 2e3, ErrorCode.MidiDeviceNotConnectedError = 3e3, ErrorCode.MidiDeviceCommunicationError = 3001, ErrorCode.MidiDevicePlugoutNotSupportedError = 3002, ErrorCode.MidiDevicePlugoutVersionNotSupportedError = 3003, ErrorCode.MidiDevicePlugoutNotPatchMode = 3004;
