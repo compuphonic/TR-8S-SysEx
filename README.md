@@ -29,7 +29,23 @@ Functionality provided via the ARIA website:
 - Transfer Pattern to specific memory slot
 - Delete a specific user sample from memory
 - Check firmware version
+- Full backup of TR-8S data (56.9Mb)
 
+## Folder Structure
 
+### js/
 
--Full backup of TR-8S data (56.9Mb)
+This folder contains JavaScript files downloaded from the AIRA website. It contains
+two subdirectories mirroring their structure on the AIRA website.
+
+* `Com/` (perhaps standing for Common?) contains libraries to assist with converting
+bytes and constructing low-level messages to be transmitted over MIDI using Sysex.
+They do not seem to be related to the TR-8S at first glance, meaning they are likely
+generic helper code.
+
+* `Tr8S` contains code that pertains specifically to the TR-8S.
+
+### patches/
+
+This folder contains example "patch" files which have the `.t8p` extension. They
+contain data that will be written to the TR-8S. 
